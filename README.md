@@ -1,8 +1,24 @@
-# React + Vite
+# Daily Quotes App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
 
-Currently, two official plugins are available:
+The **Daily Quotes App** is a React application built with Vite. It displays random inspirational quotes and allows users to fetch new quotes at the click of a button. This project serves as a demonstration of working with APIs, managing state in React, and creating a user-friendly interface.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- **Fetch Random Quotes**: Displays a random quote from the [Quotable API](https://quotable.io/api).
+- **Responsive Design**: Optimized for various screen sizes and devices.
+- **Interactive UI**: Users can fetch new quotes with a button click.
+- **Clean Code**: Well-organized React components and state management.
+
+## Technologies Used
+
+- **React**: A JavaScript library for building user interfaces.
+- **Vite**: A modern build tool that provides fast development and build speeds.
+- **Quotable API**: Provides the quotes data.
+- **ESLint**: Linting for identifying and reporting on patterns in JavaScript.
+
+### Prerequisites
+
+- Node.js and npm (Node Package Manager) installed on your machine. 
+
