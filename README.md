@@ -6,7 +6,7 @@ The **Daily Quotes App** is a React application built with Vite. It displays ran
 
 ## Features
 
-- **Fetch Random Quotes**: Displays a random quote from the [Quotable API](https://quotable.io/api).
+- **Fetch Random Quotes**: Displays a random quote from the [Quotable API]([https://quotable.io/api](https://api.forismatic.com/api/1.0/?method=getQuote&format=json&lang=en)).
 - **Responsive Design**: Optimized for various screen sizes and devices.
 - **Interactive UI**: Users can fetch new quotes with a button click.
 - **Clean Code**: Well-organized React components and state management.
